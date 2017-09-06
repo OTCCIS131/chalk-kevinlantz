@@ -1,22 +1,24 @@
 {
-  "name": "chalk-kevinlantz",
-  "version": "1.0.0",
-  "description": "chalk-kevinlantz",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/OTCCIS131/chalk-kevinlantz.git"
-  },
-  "author": "Kevin Lantz",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/OTCCIS131/chalk-kevinlantz/issues"
-  },
-  "homepage": "https://github.com/OTCCIS131/chalk-kevinlantz",
-  "dependencies": {
-    "chalk": "^2.1.0"
-  }
+    "name": "chalk-kevinlantz",
+    "version": "1.0.0",
+    "description": "chalk-kevinlantz",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OTCCIS131/chalk-kevinlantz.git"
+    },
+    "author": "Kevin Lantz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/OTCCIS131/chalk-kevinlantz/issues"
+    },
+    "homepage": "https://github.com/OTCCIS131/chalk-kevinlantz",
+    "dependencies": {
+        "chalk": "^2.1.0"
+    }
+
+
 }
